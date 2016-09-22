@@ -1,0 +1,9 @@
+Gate area 0.7980 um^2
+Level 0 Module dataPath                                 Gates=      1076 Cells=     549 Area=     858.9 um^2
+Level 1 Module EU                                       Gates=352        Cells=298      Area=     280.9 um^2
+Level 2 Module EU/COMP                                  Gates=309        Cells=261      Area=     247.1 um^2
+Level 3 Module EU/COMP/r71                              Gates=212        Cells=204      Area=     169.7 um^2
+Level 1 Module FU                                       Gates=698        Cells=237      Area=     557.0 um^2
+Level 2 Module FU/PC                                    Gates=263        Cells=102      Area=     209.9 um^2
+Level 2 Module FU/IR                                    Gates=263        Cells=102      Area=     210.1 um^2
+Level 2 Module FU/A                                     Gates=170        Cells=32       Area=     136.2 um^2
