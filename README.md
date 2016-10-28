@@ -44,4 +44,4 @@ reduce power, clock gating and guarded evaluation.<br />
 • Physical design: a complete and accurate physical design has been executed.<br />
 
 # Report
-Detailed documentation [here].(Report_DLX_Group23.pdf)
+Detailed documentation [here](Report_DLX_Group23.pdf).
