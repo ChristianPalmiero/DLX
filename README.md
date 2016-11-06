@@ -42,3 +42,6 @@ execution stage is able to solve EX/MEM hazards and MEM/WB hazards.<br />
 • Power consumption: two main techniques have been applied in order to
 reduce power, clock gating and guarded evaluation.<br />
 • Physical design: a complete and accurate physical design has been executed.<br />
+
+# Report
+Detailed documentation [here](Report_DLX_Group23.pdf).
