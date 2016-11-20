@@ -1,9 +1,12 @@
--- X = xn-1 xn-2 ... x0: natural
--- Y = yn-1 yn-2 ... y0: natural
--- Condition: x < y
--- Quotient q =  0.q0 ... qn-1: non-negative fractional
--- remainder r = rn-1 rn-2 ... r0: natural
--- X = (0.q0 q1 ... qn-1)·Y + (r/Y)·2^(n-1)
+-- CONVENTIONAL RESTORING DIVISION ALGORITHM
+-- A) The operands are both positive
+-- B) The operands are normalized, i.e. smaller than 1 in absolute value
+-- C) The dividend Y is smaller than the divisor X
+-- X = 0.x0 x1 ... xm-1
+-- Y = 0.y0 y1 ... yn-1
+-- Quotient Q =  0.q0 ... qn-1
+-- remainder R = rn-1 rn-2 ... r0: natural
+-- X/Y = Q + (R/Y)*2^(n-1)
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.all;
