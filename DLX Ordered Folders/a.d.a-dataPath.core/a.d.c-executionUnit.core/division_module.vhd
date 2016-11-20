@@ -4,8 +4,8 @@
 -- C) The dividend Y is smaller than the divisor X
 -- X = 0.x0 x1 ... xm-1
 -- Y = 0.y0 y1 ... yn-1
--- Quotient Q =  0.q0 ... qn-1
--- Remainder R = r0 r1 ... rn-1
+-- Quotient Q = 0.q0 ... qn-1
+-- Remainder R = 0.r0 r1 ... rn-1
 -- X/Y = Q + (R/Y)*2^(n-1)
 
 library IEEE;
